@@ -9,7 +9,7 @@ import java.util.Random;
 public class SimpleTest {
       
       public void sayHallo(){ Assert.assertEquals(5,4);}
-
+//Coomit from WEB
 //Some new thing2
       public void alwaysPass6()
    {
