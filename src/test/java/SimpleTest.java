@@ -8,8 +8,7 @@ import java.util.Random;
  */
 public class SimpleTest {
       
-      public void sayHallo(){ System.out.write("Hello!");
-                              System.out.write("World!");}
+      public void sayHallo(){ Assert.assertEquals(5,4);}
       
 //Some new thing
       public void alwaysPass4()
