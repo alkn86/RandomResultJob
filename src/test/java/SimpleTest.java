@@ -10,11 +10,6 @@ public class SimpleTest {
       
       public void sayHallo(){ Assert.assertEquals(5,4);}
 
-//Some new thing2
-      public void alwaysPass6()
-   {
-       Assert.assertEquals(1, 1);
-   }
       
 //Some new thing
       public void alwaysPass4()
