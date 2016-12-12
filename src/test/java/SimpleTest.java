@@ -8,7 +8,8 @@ import java.util.Random;
  */
 public class SimpleTest {
       
-      public void sayHallo(){ System.out.write("Hello!");}
+      public void sayHallo(){ System.out.write("Hello!");
+                              System.out.write("World!");}
       
 //Some new thing
       public void alwaysPass4()
