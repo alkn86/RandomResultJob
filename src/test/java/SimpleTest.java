@@ -7,6 +7,9 @@ import java.util.Random;
  * Created by gadiel on 15/11/2016.
  */
 public class SimpleTest {
+      
+      public void sayHallo(){ System.out.write("Hello!");}
+      
 //Some new thing
       public void alwaysPass4()
    {
