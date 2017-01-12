@@ -1,4 +1,4 @@
-package com.hpe.lohika
+package src.test.java
 
 import junit.framework.Assert;
 import org.junit.Test;
