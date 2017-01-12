@@ -1,4 +1,4 @@
-package src.test.java
+package src.test.java;
 
 import junit.framework.Assert;
 import org.junit.Test;
