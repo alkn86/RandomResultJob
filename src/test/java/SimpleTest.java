@@ -39,7 +39,7 @@ public class SimpleTest {
     }
   
 
-     //@Test
+     @Ignore
     public void alwaysFail1()
     {
         Assert.assertEquals(1, 0);
