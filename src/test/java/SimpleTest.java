@@ -11,7 +11,7 @@ import java.util.Random;
  */
 public class SimpleTest {
       
-    @Test  
+    @Ignore  
    public void alwaysPass4()
    {
        Assert.assertEquals(1, 1);
