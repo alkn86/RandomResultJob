@@ -10,7 +10,7 @@ import java.util.Random;
  */
 public class SimpleTest {
       
-      
+    @Test  
    public void alwaysPass4()
    {
        Assert.assertEquals(1, 1);
