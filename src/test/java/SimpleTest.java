@@ -1,4 +1,4 @@
-package com.hpe.lohika;
+0package com.hpe.lohika;
 
 import junit.framework.Assert;
 import org.junit.Test;
@@ -14,7 +14,7 @@ public class SimpleTest {
     @Test  
    public void alwaysPass4()
    {
-       Assert.assertEquals(1, 1);
+       Assert.assertEquals(1, 0);
    }
    
    @Test
