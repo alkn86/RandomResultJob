@@ -14,7 +14,7 @@ public class SimpleTest {
     @Test  
    public void alwaysPass4()
    {
-       Assert.assertEquals(1, 0);
+       Assert.assertEquals(1, 1);
    }
    
    @Test
