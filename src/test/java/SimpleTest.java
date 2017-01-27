@@ -15,7 +15,10 @@ public class SimpleTest {
     @Test  
    public void alwaysPass4()
    {
-        Thread.sleep(10000)
+        try {
+            Thread.sleep(1000);
+        }
+        catch (Exception e){}
        Assert.assertEquals(1, 1);
    }
    
