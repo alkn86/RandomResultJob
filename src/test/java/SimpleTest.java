@@ -1,4 +1,3 @@
-
 package com.hpe.lohika;
 
 import junit.framework.Assert;
@@ -16,7 +15,7 @@ public class SimpleTest {
    public void alwaysPass4()
    {
         try {
-            Thread.sleep(1000);
+            Thread.sleep(10000);
         }
         catch (Exception e){}
        Assert.assertEquals(1, 1);
